@@ -27,8 +27,3 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   </p>  
 
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Berkay-Ates&show_icons=true&theme=midnight-purple)](https://github.com/Berkay-Ates/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Berkay-Ates&show_icons=true&theme=midnight-purple)](https://git.io/streak-stats)  
-![](./profile-3d-contrib/profile-gitblock.svg)
-
