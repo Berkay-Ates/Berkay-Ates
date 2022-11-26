@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BERKAY</h1>
-<h3 align="center">Computer science student at YTU</h3>
+<h3 align="center">Computer Science Student at YTU</h3>
 
 - 🔭 I’m currently working on **mobile frontend and backend development**
 
@@ -8,8 +8,6 @@
 - 💬 Ask me about **javascript flutter and swift**
 
 - 📫 How to reach me **atesberkay2356@gmail.com**
-
-Önemli not! Birşeyi yazmadan önce githuba bak! (Kendin yazmakla uğraşmak istemiyorsan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
