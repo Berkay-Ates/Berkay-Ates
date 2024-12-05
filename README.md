@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm BERKAY</h1>
 <h3 align="center">Computer Science Student at YTU</h3>
 
 - 🔭 I’m currently working on **mobile frontend and backend development**
