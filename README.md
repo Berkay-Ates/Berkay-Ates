@@ -1,11 +1,5 @@
 <h3 align="center">Computer Science Student at YTU</h3>
 
-- 🔭 I’m currently working on **mobile frontend and backend development**
-
-- 🌱 I’m currently learning **Flutter,IOS and other similar stuffs like nodejs**
-
-- 💬 Contact with me about **javascript flutter,** and anything you want
-
 - 📫 How to reach me **atesberkay2356@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
